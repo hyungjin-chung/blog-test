@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    color: navy
+    color: "#ff87e6"
     text_color_light: true
     image: ""
     image_darken: ""
