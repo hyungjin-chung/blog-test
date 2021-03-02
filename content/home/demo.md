@@ -13,7 +13,7 @@ design:
   columns: "1"
   background:
     color: rgba(255, 135, 230, 0.35)
-    text_color_light: true
+    text_color_light: false
     image: ""
     image_darken: ""
   spacing:
