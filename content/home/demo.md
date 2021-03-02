@@ -14,7 +14,7 @@ design:
   background:
     color: navy
     text_color_light: true
-    image: /assets/media/hero_figure.jpg
+    image: https://imgur.com/v8vfHJv
     image_darken: 0.6
   spacing:
     padding:
