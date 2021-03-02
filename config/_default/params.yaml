@@ -12,7 +12,8 @@ font_size: L
 
 # SEO
 
-site_type: Person
+# site_type: Person
+site_type: project
 local_business_type: ''
 org_name: ''
 description: ''
