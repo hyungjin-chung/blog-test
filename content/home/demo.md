@@ -12,8 +12,10 @@ active: true
 design:
   columns: "1"
   background:
-    color: 'navy'
+    color: navy
     text_color_light: true
+    image: /assets/media/hero_figure.jpg
+    image_darken: 0.6
   spacing:
     padding:
       - 20px
