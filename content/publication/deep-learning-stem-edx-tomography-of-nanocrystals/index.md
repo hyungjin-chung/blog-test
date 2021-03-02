@@ -9,7 +9,7 @@ authors:
 - Jaeduck Jang
 - Eunju Cha
 - Junho Lee
-- Hyungjin Chung
+- admin
 - Myoungho Jeong
 - Tae-Gon Kim
 - Byeong Gyu Chae
