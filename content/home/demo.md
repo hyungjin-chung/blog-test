@@ -14,8 +14,8 @@ design:
   background:
     color: navy
     text_color_light: true
-    image: https://imgur.com/v8vfHJv
-    image_darken: 0.6
+    image: ""
+    image_darken: ""
   spacing:
     padding:
       - 20px
