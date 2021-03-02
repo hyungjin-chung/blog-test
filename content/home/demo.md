@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    color: "#ff87e6"
+    color: rgba(255, 135, 230, 0.35)
     text_color_light: true
     image: ""
     image_darken: ""
