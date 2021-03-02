@@ -1,5 +1,6 @@
 ---
 title: Deep learning STEM-EDX tomography of nanocrystals
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -17,8 +18,9 @@ authors:
   - Eunha Lee
   - Jong Chul Ye
 author_notes:
-  - "*Equal_contribution"
+  - "*Equal-contribution"
 doi: ""
+publication: ""
 draft: false
 featured: false
 tags:
