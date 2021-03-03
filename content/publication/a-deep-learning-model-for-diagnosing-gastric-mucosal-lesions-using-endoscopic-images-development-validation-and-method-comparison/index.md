@@ -1,0 +1,122 @@
+---
+title: "A Deep Learning Model for Diagnosing Gastric Mucosal Lesions Using Endoscopic Images: Development, Validation, and Method Comparison"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- Joon Yeul Nam
+- admin
+- Kyu Sung Choi
+- Hyuk Lee
+- Seung Jun Han
+- Tae Jun Kim
+- Hosim Soh
+- Eun Kang
+- Soo_jeong Cho
+- Jong Chul Ye
+- Jong Pil Im
+- Sang Gyun Kim
+- Yoon Jun Kim
+- Joo Sung Kim
+- Jung-Hwan Yoo
+- Hyunsoo Chung
+- Jeong-Hoon Lee
+
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+
+date: "2021-01-15T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2021-03-02T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: in SSRN
+publication_short: 
+
+abstract: **Background**: Endoscopic differential diagnoses of gastric mucosal lesions (benign gastric
+ulcer, early gastric cancer [EGC], and advanced gastric cancer) remain challenging. We aimed
+to develop and validate convolutional neural network-based artificial intelligence (AI) models:
+lesion detection (AI-LD), differential diagnosis (AI-DDx), and invasion-depth (AI-ID, pT1a
+vs. pT1b among EGC) models. 
+
+**Methods**: This study included 1,366 consecutive patients with gastric mucosal lesions from
+two referral centers in Korea. One representative endoscopic image from each patient was used.
+Histological diagnoses were set as the gold standard. The performances of the AI-DDx
+(training/internal/external validation set, n=1009/112/245) and AI-ID
+(training/internal/external validation set, n=620/68/155) were compared with visual diagnoses
+by independent endoscopists (stratified by novice [<1 year of experience], intermediate [2–3
+years of experience], and expert [>5 years of experience]) in a prospective manner and by
+endoscopic ultrasonography (EUS), respectively. 
+
+**Findings**: The AI-DDx showed good diagnostic performance for both internal (area under of
+the receiver operating characteristic curve [AUROC]=0.86) and external validation
+(AUROC=0.86). The performance of the AI-DDx was better than that of the novice
+(AUROC=0.82, P=0.01) and intermediate endoscopists (AUROC=0.84, P=0.02), but was
+comparable to the experts (AUROC=0.89, P=0.12) in the external validation set. The AI-ID
+showed fair performances in both internal (AUROC=0.78) and external validation sets
+(AUROC=0.73), which were significantly better than EUS results performed by experts
+(internal validation: AUROC=0.62, external validation: AUROC=0.56; both P <0.001).
+
+**Interpretation**: The AI-DDx was comparable with experts and outperformed novice and intermediate
+endoscopists for the differential diagnosis of gastric mucosal lesion. The AI-ID performed better
+than EUS for the invasion-depth evalutaion.
+
+# Summary. An optional shortened abstract.
+summary: AI model for accurate classification of the mucosal lesion along with depth preidction using a single endoscopic image was proposed. 
+Results show that the developed model is on par with or even exceeds performance of practiced experts.
+
+tags: [Deep Learning, classification, endoscopy]
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'file:///C:/Users/Harry/Desktop/manuscripts/EGD/SSRN-id3766771.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---

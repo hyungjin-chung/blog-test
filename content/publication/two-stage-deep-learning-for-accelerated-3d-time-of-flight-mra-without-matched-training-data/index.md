@@ -35,7 +35,7 @@ abstract: Time-of-flight magnetic resonance angiography (TOF-MRA) is one of the 
 # Summary. An optional shortened abstract.
 summary: Two-stage unsupervised reconstruction method for 3D TOF-MRA is developed. A novel projection discriminator in the axial reconstruction step drastically enhances the vessel visiblity.
 
-tags: [Deep Learning, MRI]
+tags: [Deep Learning, MRI, Optimal Transport, Projection Discriminator]
 
 # Display this page in the Featured widget?
 featured: true
