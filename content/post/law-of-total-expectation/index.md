@@ -62,7 +62,6 @@ $$
 
 continuous variable을 써서는 직관적이지 않으니, discrete random variable로 해석을 해보자. $A_1, A_2, A_3$라는 event가 있고, 그와는 independent하게 $B$라는 event가 있으면, law of total probability를 통해 다음과 같은 식을 쓸 수 있다.
 
-
 $$
 p(B) = p(A_1)p(B|A_1) + \dots + p(A_n)p(B|A_n)
 $$
@@ -98,10 +97,8 @@ $A_k$라는 event set이 있을 때, 각 event set에서의 expectation의 event
 이를 continuous random variable에서 보자면, PRML에 나와 있는 식과 같이
 
 $$
-\begin{align}
-\mathbb{E}_\theta[\theta] &=\int p(\theta)\theta\,d\theta \\
-\mathbb{E}_\athcal{D}[\mathbb{E}_\theta[\theta|\mathcal{D}]] &= \int\{\int\theta p(\theta|\mathcal{D})\,d\theta\}p(\mathcal{D})\,d\mathcal{D}
-\end{align}
+\mathbb{E}_\theta[\theta] =\int p(\theta)\theta\,d\theta \\\\
+\mathbb{E}_\athcal{D}[\mathbb{E}_\theta[\theta|\mathcal{D}]] = \int\{\int\theta p(\theta|\mathcal{D})\,d\theta\}p(\mathcal{D})\,d\mathcal{D}
 $$
 
 임을 확인할 수 있다.
