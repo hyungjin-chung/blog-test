@@ -43,7 +43,7 @@ categories:
 PRML의 74pg. Bayesian statistics에 대한 설명 중 다음과 같은 수식이 나온다.
 
 $$
-\mathbb{E}_\theta[\theta] = \mathbb{E}_\mathcal{D}[\mathbb{E}_\theta[\theta|\mathcal{D}]]
+\mathbb{E}_{\theta}[\theta] = \mathbb{E}_{\mathcal{D}}[\mathbb{E}_\theta[\theta|\mathcal{D}]]
 $$
 
 이 식의 직관적인 의미가 와 닿지 않았어서, 이 포스트를 통해 정리한다.
