@@ -23,10 +23,10 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Example of elastic distortion'
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
@@ -48,13 +48,13 @@ categories:
 
 $$y = \bf{W}x + \bf{b}$$
 
-로 나타낼 수 있으며, $$x$$는 affine transformation으로 mapping 되기 전 image의 pixel 위치를, $$y$$는 affine transformation으로 mapping된 후 image pixel의 위치를 나타낸다. 이 간단한 식으로 나타낼 수 있는 data augmentation method는 다양합니다. **translation, rotation, skewing** 등은 모두 이 affine transformation 카테고리에 속합니다.  
+로 나타낼 수 있으며, $x$는 affine transformation으로 mapping 되기 전 image의 pixel 위치를, $y$는 affine transformation으로 mapping된 후 image pixel의 위치를 나타낸다. 이 간단한 식으로 나타낼 수 있는 data augmentation method는 다양합니다. **translation, rotation, skewing** 등은 모두 이 affine transformation 카테고리에 속합니다.  
 
 예를 들어, 가장 간단한 **translation**을 보자면 $$\bf{W} = 0, \bf{b} = [1.75,, -0.5]$$ 인 경우를 들 수 있고, $$\Delta{x} = 1.75, \Delta{y} = -0.5$$ 라고 할 수 있습니다.
 
 ![Imgur](https://i.imgur.com/oh7yzNA.png)
 
-$$\bf{W}$$ 와 $$\bf{b}$$ 가 vector of **integers**라고 제한되지 않는다면 mapping되는 y가 integer가 아닐 수 있습니다. 이 경우에는 존재하지 않는 pixel value이므로 주변 pixel value로부터 interpolation을 해서 값을 정하게 되며, interpolation에도 nearest neighbor, spline, bicubic등 여러가지 방식이 있지만 일반적으로 많이 쓰이는 방식은 [**bilinear interpolation**](https://en.wikipedia.org/wiki/Bilinear_interpolation)방식입니다. 이 방식의 python implementation은 다음과 같고, opencv나 scipy와 같은 이미지를 다룰 수 있는 library에는 기본적으로 구현이 되어있습니다.  
+$\bf{W}$ 와 $\bf{b}$ 가 vector of **integers**라고 제한되지 않는다면 mapping되는 y가 integer가 아닐 수 있습니다. 이 경우에는 존재하지 않는 pixel value이므로 주변 pixel value로부터 interpolation을 해서 값을 정하게 되며, interpolation에도 nearest neighbor, spline, bicubic등 여러가지 방식이 있지만 일반적으로 많이 쓰이는 방식은 [**bilinear interpolation**](https://en.wikipedia.org/wiki/Bilinear_interpolation)방식입니다. 이 방식의 python implementation은 다음과 같고, opencv나 scipy와 같은 이미지를 다룰 수 있는 library에는 기본적으로 구현이 되어있습니다.  
 
 ```python
 def bilinear_interpolation(x, y, points):
