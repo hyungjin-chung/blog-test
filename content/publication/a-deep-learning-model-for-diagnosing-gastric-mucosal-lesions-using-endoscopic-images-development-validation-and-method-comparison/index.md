@@ -47,13 +47,7 @@ publication_types: ["3"]
 publication: in SSRN
 publication_short: 
 
-abstract: Endoscopic differential diagnoses of gastric mucosal lesions remain challenging. We aimed
-to develop and validate convolutional neural network-based artificial intelligence models-
-lesion detection, differential diagnosis, and invasion-depth models. The AI-DDx showed good diagnostic performance for both internal and external validation. 
-The performance of the AI-DDx was better than that of the novice and intermediate endoscopists, but was
-comparable to the experts in the external validation set. The AI-ID
-showed fair performances in both internal and external validation sets
-, which were significantly better than EUS results performed by experts.
+abstract: Endoscopic differential diagnoses of gastric mucosal lesions remain challenging. We aimed to develop and validate convolutional neural network-based artificial intelligence models-lesion detection, differential diagnosis, and invasion-depth models. The AI-DDx showed good diagnostic performance for both internal and external validation. The performance of the AI-DDx was better than that of the novice and intermediate endoscopists, but was comparable to the experts in the external validation set. The AI-ID showed fair performances in both internal and external validation sets, which were significantly better than EUS results performed by experts.
 
 # Summary. An optional shortened abstract.
 summary: AI model for accurate classification of the mucosal lesion along with depth preidction using a single endoscopic image was proposed. 
