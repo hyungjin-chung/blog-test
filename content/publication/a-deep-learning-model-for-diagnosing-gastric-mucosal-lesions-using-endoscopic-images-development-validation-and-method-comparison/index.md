@@ -49,7 +49,7 @@ publication_short:
 
 abstract: **Background**: Endoscopic differential diagnoses of gastric mucosal lesions (benign gastric
 ulcer, early gastric cancer [EGC], and advanced gastric cancer) remain challenging. We aimed
-to develop and validate convolutional neural network-based artificial intelligence (AI) models:
+to develop and validate convolutional neural network-based artificial intelligence (AI) models-
 lesion detection (AI-LD), differential diagnosis (AI-DDx), and invasion-depth (AI-ID, pT1a
 vs. pT1b among EGC) models. 
 
@@ -69,7 +69,7 @@ the receiver operating characteristic curve [AUROC]=0.86) and external validatio
 comparable to the experts (AUROC=0.89, P=0.12) in the external validation set. The AI-ID
 showed fair performances in both internal (AUROC=0.78) and external validation sets
 (AUROC=0.73), which were significantly better than EUS results performed by experts
-(internal validation: AUROC=0.62, external validation: AUROC=0.56; both P <0.001).
+(internal validation - AUROC=0.62, external validation - AUROC=0.56; both P <0.001).
 
 **Interpretation**: The AI-DDx was comparable with experts and outperformed novice and intermediate
 endoscopists for the differential diagnosis of gastric mucosal lesion. The AI-ID performed better
