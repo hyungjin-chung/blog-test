@@ -43,7 +43,7 @@ categories:
 PRML의 74pg. Bayesian statistics에 대한 설명 중 다음과 같은 수식이 나온다.
 
 $$
-\mathbb{E}_{\theta}[\theta] = \mathbb{E}_{\mathcal{D}}[\mathbb{E}_\theta[\theta|\mathcal{D}]]
+\mathbb{E}_{\theta}[\theta] = \mathbb{E}_{\mathcal{D}}[\mathbb{E}_{\theta}[\theta|\mathcal{D}]]
 $$
 
 이 식의 직관적인 의미가 와 닿지 않았어서, 이 포스트를 통해 정리한다.
@@ -97,7 +97,10 @@ $A_k$라는 event set이 있을 때, 각 event set에서의 expectation의 event
 이를 continuous random variable에서 보자면, PRML에 나와 있는 식과 같이
 
 $$
-\mathbb{E}_\theta[\theta] =\int p(\theta)\theta\,d\theta \\\\
+\mathbb{E}_\theta[\theta] =\int p(\theta)\theta\,d\theta
+$$
+
+$$
 \mathbb{E}_\mathcal{D}[\mathbb{E}_\theta[\theta|\mathcal{D}]] = \int\{\int\theta p(\theta|\mathcal{D})\,d\theta\}p(\mathcal{D})\,d\mathcal{D}
 $$
 
