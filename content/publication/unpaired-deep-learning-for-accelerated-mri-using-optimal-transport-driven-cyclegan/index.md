@@ -31,24 +31,7 @@ publication_types: ["2"]
 publication: in IEEE Transactions on Computational Imaging, 2020
 publication_short: IEEE TCI
 
-abstract: Recently, deep learning approaches for accelerated
-MRI have been extensively studied thanks to their high performance reconstruction in spite of significantly reduced runtime complexity. These neural networks are usually trained
-in a supervised manner, so matched pairs of subsampled and
-fully sampled k-space data are required. Unfortunately, it is
-often difficult to acquire matched fully sampled k-space data,
-since the acquisition of fully sampled k-space data requires
-long scan time and often leads to the change of the acquisition
-protocol. Therefore, unpaired deep learning without matched
-label data has become a very important research topic. In this
-paper, we propose an unpaired deep learning approach using a
-optimal transport driven cycle-consistent generative adversarial
-network (OT-cycleGAN) that employs a single pair of generator
-and discriminator. The proposed OT-cycleGAN architecture is
-rigorously derived from a dual formulation of the optimal
-transport formulation using a specially designed penalized least
-squares cost. The experimental results show that our method
-can reconstruct high resolution MR images from accelerated kspace data from both single and multiple coil acquisition, without
-requiring matched reference data.
+abstract: Recently, deep learning approaches for accelerated MRI have been extensively studied thanks to their high performance reconstruction in spite of significantly reduced runtime complexity. These neural networks are usually trained in a supervised manner, so matched pairs of subsampled and fully sampled k-space data are required. Unfortunately, it is often difficult to acquire matched fully sampled k-space data, since the acquisition of fully sampled k-space data requires long scan time and often leads to the change of the acquisition protocol. Therefore, unpaired deep learning without matched label data has become a very important research topic. In this paper, we propose an unpaired deep learning approach using an optimal transport driven cycle-consistent generative adversarial network (OT-cycleGAN) that employs a single pair of generator and discriminator. The proposed OT-cycleGAN architecture is rigorously derived from a dual formulation of the optimal transport formulation using a specially designed penalized least squares cost. The experimental results show that our method can reconstruct high resolution MR images from accelerated kspace data from both single and multiple coil acquisition, without requiring matched reference data.
 
 # Summary. An optional shortened abstract.
 summary: A novel unpaired learning scheme for accelerated MRI, OT-cycleGAN was extensively applied and was found effective for the reconstruction of multi-coil static MRI.
