@@ -101,7 +101,7 @@ $$
 $$
 
 $$
-\mathbb{E}_\mathcal{D} [\mathbb{E}_\theta[\theta|\mathcal{D}]] = \int\{\int\theta p(\theta|\mathcal{D})\,d\theta\}p(\mathcal{D})\,d\mathcal{D}
+\mathbb{E}_{\mathcal{D}} [\mathbb{E}_{\theta [ \theta | \mathcal{D} ]}] = \int \{ \int \theta p( \theta | \mathcal{D} ) d \theta \} p(\mathcal{D}) \, d \mathcal{D}
 $$
 
 임을 확인할 수 있다.
