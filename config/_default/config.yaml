@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: hj-chung # Website name
-baseurl: 'https://hj-chung.netlify.app/' # Website URL
+# baseurl: 'https://hj-chung.netlify.app/' # Website URL
+baseurl: 'http://www.hj-chung.com/'
 copyright: '© 2021 Hyungjin Chung' # Footer text, e.g. '© {year} Me'
 
 ############################
