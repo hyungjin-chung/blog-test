@@ -47,13 +47,13 @@ publication_types: ["3"]
 publication: in SSRN
 publication_short: 
 
-abstract: **Background**: Endoscopic differential diagnoses of gastric mucosal lesions (benign gastric
+abstract: **Background** - Endoscopic differential diagnoses of gastric mucosal lesions (benign gastric
 ulcer, early gastric cancer [EGC], and advanced gastric cancer) remain challenging. We aimed
 to develop and validate convolutional neural network-based artificial intelligence (AI) models-
 lesion detection (AI-LD), differential diagnosis (AI-DDx), and invasion-depth (AI-ID, pT1a
 vs. pT1b among EGC) models. 
 
-**Methods**: This study included 1,366 consecutive patients with gastric mucosal lesions from
+**Methods** - This study included 1,366 consecutive patients with gastric mucosal lesions from
 two referral centers in Korea. One representative endoscopic image from each patient was used.
 Histological diagnoses were set as the gold standard. The performances of the AI-DDx
 (training/internal/external validation set, n=1009/112/245) and AI-ID
@@ -62,7 +62,7 @@ by independent endoscopists (stratified by novice [<1 year of experience], inter
 years of experience], and expert [>5 years of experience]) in a prospective manner and by
 endoscopic ultrasonography (EUS), respectively. 
 
-**Findings**: The AI-DDx showed good diagnostic performance for both internal (area under of
+**Findings** - The AI-DDx showed good diagnostic performance for both internal (area under of
 the receiver operating characteristic curve [AUROC]=0.86) and external validation
 (AUROC=0.86). The performance of the AI-DDx was better than that of the novice
 (AUROC=0.82, P=0.01) and intermediate endoscopists (AUROC=0.84, P=0.02), but was
@@ -71,7 +71,7 @@ showed fair performances in both internal (AUROC=0.78) and external validation s
 (AUROC=0.73), which were significantly better than EUS results performed by experts
 (internal validation - AUROC=0.62, external validation - AUROC=0.56; both P <0.001).
 
-**Interpretation**: The AI-DDx was comparable with experts and outperformed novice and intermediate
+**Interpretation** - The AI-DDx was comparable with experts and outperformed novice and intermediate
 endoscopists for the differential diagnosis of gastric mucosal lesion. The AI-ID performed better
 than EUS for the invasion-depth evalutaion.
 
