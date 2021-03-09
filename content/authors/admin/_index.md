@@ -38,4 +38,4 @@ highlight_name: true
 ---
 Hyungjin Chung is a Ph.D. student @KAIST bio-imaging signal processing & learning lab (BISPL). His research interests include, but is not restricted to solving inverse problems via deep learning. He has published papers and ongoing projects in a wide variety of fields including compressed sensing MRI (CS-MRI), tomographic reconstruction, microscopy, and phase retrieval.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Hyungjin_Chung.pdf" "newtab" >}}CV{{< /staticref >}}.

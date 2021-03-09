@@ -159,8 +159,8 @@ plt.show()
 
 1) Random displacement vector를 generate합니다.
 $$\Delta{x}(x,y) = unif(-1,1), \Delta{y}(x,y) = unif(-1,1)$$
-2) parameter중 하나인 **elasticity coefficient**, Gaussian standard deviation $$\sigma$$ 와 convolution을 진행합니다.
-3) intensity of deformation을 결정하는 parameter $$\alpha$$ 로 scaling합니다.
+2) parameter중 하나인 **elasticity coefficient**, Gaussian standard deviation $\sigma$ 와 convolution을 진행합니다.
+3) intensity of deformation을 결정하는 parameter $\alpha$ 로 scaling합니다.
 
 어떤 뜻인지 명확하지 않은 분들을 위해, python에서는 [opencv remap function](https://docs.opencv.org/2.4/modules/imgproc/doc/geometric_transformations.html?highlight=remap)을 이용해서 어떤 식으로 implement 할 수 있는지 보여드리겠습니다.
 
