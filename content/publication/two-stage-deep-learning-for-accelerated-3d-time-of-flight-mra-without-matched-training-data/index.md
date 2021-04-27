@@ -14,11 +14,11 @@ authors:
 author_notes:
 - ""
 
-date: "2020-08-04T00:00:00Z"
+date: "2020-04-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-02T00:00:00Z"
+publishDate: "2021-04-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2008.01362.pdf'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1361841521000931?casa_token=d_SKOLkevjUAAAAA:FgTZe8yJEgAvA-A-WAPNU8J9rdF21wR5SKL81aQHIeQuidIQLARs7d29E_N2sK9GvJ6hk2LtAw'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: Hyungjin Chung'
   focal_point: ""
   preview_only: false
 
