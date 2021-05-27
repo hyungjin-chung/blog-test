@@ -12,7 +12,7 @@ authors:
 - Jong Chul Ye
 
 # Author notes (optional)
-author_notes:
+author_notes: ""
 
 date: "2020-05-01T00:00:00Z"
 doi: ""
