@@ -21,11 +21,11 @@ publishDate: "2021-05-21T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In ArXiv
-publication_short: In ArXiv
+publication: In Nature Machine Intelligence
+publication_short: In NMI
 
 abstract: Deep generative models are known to be able to model arbitrary probability distributions. Among these, a recent deep generative model, dubbed sliceGAN, proposed a new way of using the generative adversarial network (GAN) to capture the micro-structural characteristics of a two-dimensional (2D) slice and generate three-dimensional (3D) volumes with similar properties. While 3D micrographs are largely beneficial in simulating diverse material behavior, they are often much harder to obtain than their 2D counterparts. Hence, sliceGAN opens up many interesting directions of research by learning the representative distribution from 2D slices, and transferring the learned knowledge to generate arbitrary 3D volumes. However, one limitation of sliceGAN is that latent space steering is not possible. Hence, we combine sliceGAN with AdaIN to endow the model with the ability to disentangle the features and control the synthesis.
 
@@ -42,8 +42,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2105.00194'
-url_code: 'https://github.com/bispl-kaist/SliceGAN_AdaIN'
+url_pdf: 'https://www.nature.com/articles/s42256-021-00400-4'
+url_code: 'https://github.com/HJ-harry/SliceGAN_AdaIN'
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -6,6 +6,8 @@ bio: My research interests include, but is not restricted to solving inverse
   learning
 interests:
   - Deep Learning
+  - Diffusion Model
+  - Energy-based Model
   - Computational Imaging
   - Inverse Problems
 social:
