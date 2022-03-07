@@ -1,5 +1,5 @@
 ---
-title: "Come-Closer-Diffuse-Faster Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction"
+title: "<Come-Closer-Diffuse-Faster Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction>"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -33,7 +33,7 @@ to inverse problems have demonstrated state-of-the-art performance. Unfortunatel
 # Summary. An optional shortened abstract.
 summary: Come-close to diffuse-fast when solving inverse problems with diffusion models. We establish state-of-the-art results with only 20 diffusion steps across various tasks including SR, inpainting, and CS-MRI
 
-tags: [Diffusion model, Score-based model, Stochastic contraction, Super-resolution, Inpainting, Compressed-sensing MRI]
+tags: [Diffusion model, Score-based model, Stochastic contraction]
 
 # Display this page in the Featured widget?
 featured: true
