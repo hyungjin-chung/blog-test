@@ -1,5 +1,5 @@
 ---
-title: "<Come-Closer-Diffuse-Faster Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction>"
+title: "Come-Closer-Diffuse-Faster Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,11 +12,11 @@ authors:
 # Author notes (optional)
 author_notes: ""
 
-date: "2022-03-06T00:00:00Z"
+date: "2022-03-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-06T00:00:00Z"
+publishDate: "2022-03-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +28,7 @@ publication_types: ["1"]
 publication: In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 publication_short: In CVPR
 
-abstract: Diffusion models have recently attained significant interest within the community owing to their strong performance as generative models. Furthermore, its application
-to inverse problems have demonstrated state-of-the-art performance. Unfortunately, diffusion models have a critical downside - they are inherently slow to sample from, needing few thousand steps of iteration to generate images from pure Gaussian noise. In this work, we show that starting from Gaussian noise is unnecessary. Instead, starting from a single forward diffusion with better initialization significantly reduces the number of sampling steps in the reverse conditional diffusion. This phenomenon is formally  explained by the contraction theory of the stochastic difference equations like our conditional diffusion strategy - the alternating applications of reverse diffusion followed by a non-expansive data consistency step. The new sampling strategy, dubbed Come-Closer-Diffuse-Faster (CCDF), also reveals a new insight on how the existing feed-forward neural network approaches for inverse problems can be synergistically combined with the diffusion models. Experimental results with super-resolution, image inpainting, and compressed sensing MRI demonstrate that our method can achieve state-of-the-art reconstruction performance at significantly reduced sampling steps.
+abstract: Diffusion models have recently attained significant interest within the community owing to their strong performance as generative models. Furthermore, its application to inverse problems have demonstrated state-of-the-art performance. Unfortunately, diffusion models have a critical downside - they are inherently slow to sample from, needing few thousand steps of iteration to generate images from pure Gaussian noise. In this work, we show that starting from Gaussian noise is unnecessary. Instead, starting from a single forward diffusion with better initialization significantly reduces the number of sampling steps in the reverse conditional diffusion. This phenomenon is formally explained by the contraction theory of the stochastic difference equations like our conditional diffusion strategy - the alternating applications of reverse diffusion followed by a non-expansive data consistency step. The new sampling strategy, dubbed Come-Closer-Diffuse-Faster (CCDF), also reveals a new insight on how the existing feed-forward neural network approaches for inverse problems can be synergistically combined with the diffusion models. Experimental results with super-resolution, image inpainting, and compressed sensing MRI demonstrate that our method can achieve state-of-the-art reconstruction performance at significantly reduced sampling steps.
 # Summary. An optional shortened abstract.
 summary: Come-close to diffuse-fast when solving inverse problems with diffusion models. We establish state-of-the-art results with only 20 diffusion steps across various tasks including SR, inpainting, and CS-MRI
 
