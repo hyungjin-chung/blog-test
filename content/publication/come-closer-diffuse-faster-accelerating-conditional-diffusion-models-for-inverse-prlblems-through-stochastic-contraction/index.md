@@ -1,5 +1,5 @@
 ---
-title: "Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction"
+title: "Come-Closer-Diffuse-Faster Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
