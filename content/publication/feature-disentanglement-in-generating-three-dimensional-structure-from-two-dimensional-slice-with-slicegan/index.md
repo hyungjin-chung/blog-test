@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Nature Machine Intelligence
-publication_short: In NMI
+publication_short: In Nat. Mach. Int.
 
 abstract: Deep generative models are known to be able to model arbitrary probability distributions. Among these, a recent deep generative model, dubbed sliceGAN, proposed a new way of using the generative adversarial network (GAN) to capture the micro-structural characteristics of a two-dimensional (2D) slice and generate three-dimensional (3D) volumes with similar properties. While 3D micrographs are largely beneficial in simulating diverse material behavior, they are often much harder to obtain than their 2D counterparts. Hence, sliceGAN opens up many interesting directions of research by learning the representative distribution from 2D slices, and transferring the learned knowledge to generate arbitrary 3D volumes. However, one limitation of sliceGAN is that latent space steering is not possible. Hence, we combine sliceGAN with AdaIN to endow the model with the ability to disentangle the features and control the synthesis.
 
@@ -35,7 +35,7 @@ summary: SliceGAN, stochastic model to synthesize 3D microstructures from 2D ima
 tags: [Feature disentanglement, AdaIN, SliceGAN]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

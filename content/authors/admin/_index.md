@@ -38,6 +38,7 @@ email: hj.chung@kaist.ac.kr
 superuser: true
 highlight_name: true
 ---
-Hyungjin Chung is a Ph.D. student @KAIST bio-imaging signal processing & learning lab (BISPL). His research interests include, but is not restricted to solving inverse problems via deep learning. He has published papers and ongoing projects in a wide variety of fields including compressed sensing MRI (CS-MRI), tomographic reconstruction, microscopy, and phase retrieval.
+Second year Ph.D. student @KAIST bio-imaging signal processing & learning lab (BISPL). Currently working as a research intern at the Los Alamos National Laboratory (LANL) applied math and plasma physics division (T-5). 
+His research interests include, but is not restricted to solving inverse problems via generative modeling, and especially diffusion models. He has published papers and ongoing projects in a wide variety of fields including compressed sensing MRI (CS-MRI), tomographic reconstruction, microscopy, and phase retrieval.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Hyungjin_Chung.pdf" "newtab" >}}CV{{< /staticref >}}.

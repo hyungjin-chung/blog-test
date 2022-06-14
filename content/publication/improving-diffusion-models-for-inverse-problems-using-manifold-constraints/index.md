@@ -1,14 +1,13 @@
 ---
-title: "Missing Cone Artifacts Removal in ODT using Unsupervised Deep Learning in Projection Domain"
+title: "Improving Diffusion Models for Inverse Problems using Manifold Constraints"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Jaeyoung Huh
-- Geon Kim
-- Yong Keun Park
+- Byeongsu Sim
+- Dohoon Ryu
 - Jong Chul Ye
 
 # Author notes (optional)
@@ -16,38 +15,38 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-03-16T00:00:00Z"
+date: "2022-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-27T00:00:00Z"
+publishDate: "2022-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE Transactions on Computational Imaging
-publication_short: In IEEE TCI
+publication: In ArXiv
+publication_short: In ArXiv
 
-abstract: Optical diffraction tomography (ODT) produces three dimensional distribution of refractive index (RI) by measuring scattering fields at various angles. Although the distribution of RI index is highly informative, due to the missing cone problem stemming from the limited-angle acquisition of holograms, reconstructions have very poor resolution along axial direction compared to the horizontal imaging plane. To solve this issue, here we present a novel unsupervised deep learning framework, which learns the probability distribution of missing projection views through optimal transport driven cycleGAN. Experimental results show that missing cone artifact in ODT can be significantly resolved by the proposed method.
+abstract: Recently, diffusion models have been used to solve various  inverse problems in an unsupervised manner with appropriate modifications to the sampling process. However, the current solvers, which recursively apply a reverse diffusion step followed by  a measurement consistency step, often produce sub-optimal results. By studying the generative sampling path, here we show that current solvers throw the sample path off the data manifold, and hence the error accumulates. To address this, we propose an additional correction term  inspired by the manifold constraint, which  can be used synergistically with the previous solvers to make the iterations close to the manifold. The proposed manifold constraint is straightforward to implement within a few lines of code, yet boosts the performance by a surprisingly large margin. With extensive experiments, we show that our method is superior to the previous methods both theoretically and empirically, producing promising results in many applications such as image inpainting, colorization, and sparse-view computed tomography.
 
 # Summary. An optional shortened abstract.
-summary: Unsupervised missing-cone resolving method is proposed in the context of ODT.
+summary: Manifold constraint dramatically improves the performance of unsupervised inverse problem solving using diffusion models.
 
-tags: [Deep Learning, Unsupervised Learning, Optimal Transport, Optical Diffraction Tomography]
+tags: [Diffusion model, Inverse problem, Manifold constraint]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9495275?casa_token=PPwiS-5d70cAAAAA:lLEJZN6D4sB_gXBcUjZa0US4i74DES3TEVsnekm19nGxYxsn9fjNNJjJwB0773mY3SUxrnil'
+url_pdf: 'https://arxiv.org/abs/2206.00941'
 url_code: ''
 url_dataset: ''
 url_poster: ''

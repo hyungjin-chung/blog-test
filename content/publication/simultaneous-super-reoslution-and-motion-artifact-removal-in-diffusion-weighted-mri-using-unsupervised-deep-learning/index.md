@@ -38,7 +38,7 @@ summary: Unsupervised deep learning for simultaneous super-resolution and motion
 tags: [Unsupervised Learning, MRI, DWI, Super resolution, Motion artifact correction]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

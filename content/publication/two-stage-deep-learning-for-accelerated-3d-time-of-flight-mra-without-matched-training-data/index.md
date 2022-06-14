@@ -38,7 +38,7 @@ summary: Two-stage unsupervised reconstruction method for 3D TOF-MRA is develope
 tags: [Deep Learning, MRI, Optimal Transport, Projection Discriminator]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

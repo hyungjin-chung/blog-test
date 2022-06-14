@@ -24,8 +24,8 @@ publishDate: "2021-12-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In ArXiv
-publication_short: In ArXiv
+publication: In Medical Image Analysis 
+publication_short: In MedIA
 
 abstract: Score-based diffusion models provide a powerful way to model images using the gradient of the data distribution. Leveraging the learned score function as a prior, here we introduce a way to sample data from a conditional distribution given the measurements, such that the model can be readily used for solving inverse problems in imaging, especially for accelerated MRI. In short, we train a continuous time-dependent score function with denoising score matching. Then, at the inference stage, we iterate between numerical SDE solver and data consistency projection step to achieve reconstruction. Our model requires magnitude images only for training, and yet is able to reconstruct complex-valued data, and even extends to parallel imaging. The proposed method is agnostic to sub-sampling patterns, and can be used with any sampling schemes. Also, due to its generative nature, our approach can quantify uncertainty, which is not possible with standard regression settings. On top of all the advantages, our method also has very strong performance, even beating the models trained with full supervision. With extensive experiments, we verify the superiority of our method in terms of quality and practicality.
 # Summary. An optional shortened abstract.
@@ -42,7 +42,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2110.05243'
-url_code: ''
+url_code: 'https://github.com/HJ-harry/score-MRI'
 url_dataset: ''
 url_poster: ''
 url_project: ''
