@@ -1,5 +1,5 @@
 ---
-title: "Improving Diffusion Models for Inverse Problems using Manifold Constraints"
+title: "Diffusion Posterior Sampling for General Noisy Inverse Problems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
