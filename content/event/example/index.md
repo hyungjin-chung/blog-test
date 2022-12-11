@@ -34,11 +34,11 @@ image:
   caption: 'Image credit: Nature Publishing Group'
   focal_point: Right
 
-links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# links:
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
