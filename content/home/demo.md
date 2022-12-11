@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    color: rgba(255, 135, 230, 0.35)
+    color: 
     text_color_light: false
     image: ""
     image_darken: ""
@@ -23,6 +23,6 @@ design:
       - 20px
       - "0"
 ---
-## 📚 Welcome to my Homepage
+<!-- ## 📚 Welcome to my Homepage -->
 
-Welcome to my personal homepage. I am an ongoing **Ph.D. student @KAIST**. The motivation of my research is **"Making invisible, visible"**. Mostly, I work on solving **inverse problems** arising in computational imaging, and I focus on using **deep learning**, especially unsupervised learning methods to accomplish it. Unlike many works in literature that simply adopt published methods off-the-shelf, I also try to delve on theoretical links of machine learning and signal processing.
+Welcome to my personal homepage. I am an ongoing **Ph.D. student @KAIST**. The motivation of my research is **"Making invisible, visible"**. Mostly, I work on solving **inverse problems** arising in computational imaging, and I focus on using **generative modeling**, especially **diffusion models**. I am both interested in generally advancing diffusion model-based inverse problem solvers, and applying them to solve important real-world problems.
