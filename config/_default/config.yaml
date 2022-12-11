@@ -6,7 +6,7 @@
 title: hj-chung # Website name
 # baseurl: 'https://hj-chung.netlify.app/' # Website URL
 baseurl: 'http://www.hj-chung.com/'
-copyright: '© 2021 Hyungjin Chung' # Footer text, e.g. '© {year} Me'
+copyright: '© 2023 Hyungjin Chung' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
