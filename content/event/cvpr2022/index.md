@@ -1,5 +1,5 @@
 ---
-title: Paper on accelerating conditional diffusion models accepted to CVPR 2022
+title: 1 Paper accepted to CVPR 2022
 
 event: 
 event_url: https://arxiv.org/abs/2112.05146

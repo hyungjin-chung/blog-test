@@ -1,5 +1,5 @@
 ---
-title: Paper on linear inverse problem solving with diffusion models accepted to NeurIPS 2022
+title: 2 Papers accepted to NeurIPS 2022 / NeurIPS 2022 SBM Workshop
 
 event: 
 event_url: https://arxiv.org/abs/2206.00941
@@ -12,8 +12,8 @@ event_url: https://arxiv.org/abs/2206.00941
 #   postcode: '94305'
 #   country: United States
 
-summary: Paper on using manifold constraints to achieve state-of-the-art performance on using diffusion models for linear inverse problems is accepted to NeurIPS 2022.
-abstract: Paper titled "Improving Diffusion Models for Inverse Problems using Manifold Constraints" is accepted to NeurIPS 2022. We propose a geometric view of diffusion models, and use this view to dramatically improve the performance of diffusion models in linear inverse problem solving.
+summary: Paper on using manifold constraints to achieve state-of-the-art performance on using diffusion models for linear inverse problems is accepted to NeurIPS 2022. Another paper on generalized diffusion process is accepted to NeurIPS 2022 SBM Workshop.
+abstract: Paper titled "Improving Diffusion Models for Inverse Problems using Manifold Constraints" is accepted to NeurIPS 2022. We propose a geometric view of diffusion models, and use this view to dramatically improve the performance of diffusion models in linear inverse problem solving. Paper titled "Progressive deblurring of diffusion models for coarse-to-fine image synthesis" is accepted to NeurIPS 2022 SBM workshop.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
