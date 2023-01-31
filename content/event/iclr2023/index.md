@@ -1,8 +1,8 @@
 ---
-title: 2 Papers accepted to NeurIPS 2022 / NeurIPS 2022 SBM Workshop
+title: 1 Paper accepted to ICLR 2023 (spotlight)
 
 event: 
-event_url: https://arxiv.org/abs/2206.00941
+event_url: https://openreview.net/forum?id=OnD9zGAGT0k
 
 # location: Wowchemy HQ
 # address:
@@ -12,8 +12,8 @@ event_url: https://arxiv.org/abs/2206.00941
 #   postcode: '94305'
 #   country: United States
 
-summary: Paper on using manifold constraints to achieve state-of-the-art performance on using diffusion models for linear inverse problems is accepted to NeurIPS 2022. Another paper on generalized diffusion process is accepted to NeurIPS 2022 SBM Workshop.
-abstract: Paper titled "Improving Diffusion Models for Inverse Problems using Manifold Constraints" is accepted to NeurIPS 2022. We propose a geometric view of diffusion models, and use this view to dramatically improve the performance of diffusion models in linear inverse problem solving. Paper titled "Progressive deblurring of diffusion models for coarse-to-fine image synthesis" is accepted to NeurIPS 2022 SBM workshop.
+summary: Diffusion Posterior Sampling (DPS), a general noisy inverse problem solver that can cope with both linear and nonlinear inverse problems, is accepted to ICLR 2023 as spotlight presentation.
+abstract: Diffusion models have been recently studied as powerful generative inverse problem solvers, owing to their high quality reconstructions and the ease of combining existing iterative solvers. However, most works focus on solving simple linear inverse problems in noiseless settings, which significantly under-represents the complexity of real-world problems. In this work, we extend diffusion solvers to efficiently handle general noisy (non)linear inverse problems via the Laplace approximation of the posterior sampling. Interestingly, the resulting posterior sampling scheme is a blended version of diffusion sampling with the manifold constrained gradient without a strict measurement consistency projection step, yielding a more desirable generative path in noisy settings compared to the previous studies. Our method demonstrates that diffusion models can incorporate various measurement noise statistics such as Gaussian and Poisson, and also efficiently handle noisy nonlinear inverse problems such as Fourier phase retrieval and non-uniform deblurring.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -22,7 +22,7 @@ abstract: Paper titled "Improving Diffusion Models for Inverse Problems using Ma
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-09-15T00:00:00Z"
+publishDate: "2023-01-15T00:00:00Z"
 
 authors: [admin]
 tags: []
@@ -31,7 +31,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'MCG'
+  caption: 'DPS'
   focal_point: Right
 
 # links:
