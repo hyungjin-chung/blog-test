@@ -10,7 +10,8 @@ authors:
 - Jong Chul Ye
 
 # Author notes (optional)
-author_notes: ""
+author_notes: 
+- ""
 
 date: "2023-05-31T00:00:00Z"
 doi: ""
@@ -34,7 +35,7 @@ in a much faster and more accurate diffusion sampling. Our method is applicable 
 # Summary. An optional shortened abstract.
 summary: DDS, a fast diffusion sampler leveraging the geometric properties of diffusion models, specifically designed for solving inverse problems in medical imaging, is proposed.
 
-tags: [Diffusion model, Inverse problem, Geometric decomposition, Medical imaging]
+tags: [Diffusion model, Inverse problem, Medical imaging]
 
 # Display this page in the Featured widget?
 featured: false
