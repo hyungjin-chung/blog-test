@@ -29,13 +29,13 @@ education:
   courses:
     - course: PhD in Bio & Brain Engineering
       institution: KAIST
-      year: Current
+      year: 2021 - Current
     - course: MS in Bio & Brain Engineering
       institution: KAIST
-      year: 2021
+      year: 2019 - 2021
     - course: BS in Biomedical Engineering
       institution: Korea University
-      year: 2019
+      year: 2015 - 2019
 email: hj.chung@kaist.ac.kr
 superuser: true
 highlight_name: true
