@@ -27,8 +27,11 @@ organizations:
     url: https://bispl.weebly.com/
 education:
   courses:
+    - course: PhD in Bio & Brain Engineering
+      institution: KAIST
+      year: Current
     - course: MS in Bio & Brain Engineering
-      institution: Korea Advanced Institute of Science & Technology (KAIST)
+      institution: KAIST
       year: 2021
     - course: BS in Biomedical Engineering
       institution: Korea University
