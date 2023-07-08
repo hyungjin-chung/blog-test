@@ -10,8 +10,7 @@ authors:
 - Jong Chul Ye
 
 # Author notes (optional)
-author_notes:
-- ""
+author_notes: ""
 
 date: "2023-03-10T00:00:00Z"
 doi: ""
