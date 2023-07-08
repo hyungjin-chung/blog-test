@@ -25,4 +25,4 @@ design:
 ---
 <!-- ## 📚 Welcome to my Homepage -->
 
-Welcome to my personal homepage. I am an ongoing **Ph.D. student @KAIST**. The motivation of my research is **"Making invisible, visible"**. Mostly, I work on solving **inverse problems** arising in computational imaging, and I focus on using **generative modeling**, especially **diffusion models**. I am both interested in generally advancing diffusion model-based inverse problem solvers, and applying them to solve important real-world problems.
+Hyungjin Chung is a **Ph.D. student @KAIST**, and a **Research intern @Google Research**. The motivation of his research is **"Making invisible, visible"**. Mostly, He works on solving **inverse problems** arising in computational imaging through **generative modeling**, especially **diffusion models**.
