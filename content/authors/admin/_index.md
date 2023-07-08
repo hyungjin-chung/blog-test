@@ -43,4 +43,4 @@ highlight_name: true
 Third year Ph.D. student @KAIST bio-imaging signal processing & learning lab (BISPL). Student researcher at Google Research team LUMA.
 Prior research intern at the Los Alamos National Laboratory (LANL) applied math and plasma physics group (T-5). Diffusion models and inverse problems enthusiast. Hyungjin Chung has pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. Interested in 1) Advancing and widening the applicability of diffusion models in inverse imaging, 2) Acceleration of diffusion models, 3) Application to solve real-world problems (e.g. medical imaging).
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Hyungjin_Chung.pdf" "newtab" >}}CV{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Hyungjin_Chung.pdf" "newtab" >}}CV{{< /staticref >}}.
