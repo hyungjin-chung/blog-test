@@ -48,13 +48,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2211.10655v1'
-url_code: ''
+url_code: 'https://github.com/HJ-harry/DiffusionMBIR'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/M-SQLJr5hDQ'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

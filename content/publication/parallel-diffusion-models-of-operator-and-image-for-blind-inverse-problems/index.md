@@ -47,13 +47,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2211.10656v1'
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/BlindDPS/blind-dps'
+url_dataset: 'https://blinddps.github.io/blind-dps-project/'
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/uQx63WUOIj0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
