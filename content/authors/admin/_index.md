@@ -6,9 +6,9 @@ bio: My research interests include, but is not restricted to developing efficien
 interests:
   - Deep Learning
   - Diffusion Model
-  - Energy-based Model
   - Computational Imaging
   - Inverse Problems
+  - AI4Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,7 +40,7 @@ email: hj.chung@kaist.ac.kr
 superuser: true
 highlight_name: true
 ---
-Third year Ph.D. student @KAIST bio-imaging signal processing & learning lab (BISPL). Student researcher at Google Research team LUMA.
-Prior research intern at the Los Alamos National Laboratory (LANL) applied math and plasma physics group (T-5). Diffusion models and inverse problems enthusiast. Hyungjin Chung has pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. Interested in 1) Advancing and widening the applicability of diffusion models in inverse imaging, 2) Acceleration of diffusion models, 3) Application to solve real-world problems (e.g. medical imaging).
+Third year **Ph.D. student @KAIST** bio-imaging signal processing & learning lab (BISPL). Intern at **NVIDIA Research**.
+Prior research intern at Google Research Perception (LUMA), and Los Alamos National Laboratory (LANL) applied math and plasma physics group (T-5). Diffusion models and inverse problems enthusiast. Hyungjin Chung has pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. Interested in 1) Advancing and widening the applicability of diffusion models in inverse imaging, 2) Acceleration of diffusion models, 3) Application to solve real-world problems (e.g. medical imaging).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Hyungjin_Chung.pdf" "newtab" >}}CV{{< /staticref >}}.
