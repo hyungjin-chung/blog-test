@@ -1,13 +1,12 @@
 ---
-title: Hyungjin Chung
-role: Ph.D. student - Generative Models & Inverse Problems
-bio: My research interests include, but is not restricted to developing efficient, modular deep generative models (diffusion models), and solving real-world inverse
-  problems (MRI, tomography, microscopy, phase retrieval, etc.) with deep generative priors.
+title: Hyungjin Chung, Ph.D.
+role: Research Scientist
+bio: Generative models, Inverse problems, Multimodality, Motion, and more.
 interests:
-  - Deep Learning
-  - Diffusion Model
-  - Computational Imaging
+  - Generative Models (e.g. Diffusion models)
   - Inverse Problems
+  - Mutimodal Representations
+  - Motion Understanding/Generation
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,23 +21,25 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/hyungjin-chung-060b42148/
 organizations:
-  - name: Korea Advanced Institute of Science and Technology (KAIST) BISPL
-    url: https://bispl.weebly.com/
+  - name: EverEx
+    url: https://everex.kr/
 education:
   courses:
     - course: PhD in Bio & Brain Engineering
       institution: KAIST
-      year: Current
+      year: 2025
     - course: MS in Bio & Brain Engineering
       institution: KAIST
       year: 2021
     - course: BS in Biomedical Engineering
       institution: Korea University
       year: 2019
-email: hj.chung@kaist.ac.kr
+email: harry93001@gmail.com
 superuser: true
 highlight_name: true
 ---
-Final year **Ph.D. student @KAIST** [bio-imaging signal processing & learning lab (BISPL)](https://bispl.weebly.com/). Prior research intern at NVIDIA Research, Google Research Perception (LUMA), and Los Alamos National Laboratory (LANL) applied math and plasma physics group (T-5). Diffusion models and inverse problems enthusiast. Hyungjin Chung has pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. My research interests include, but are not restricted to advancing and widening the applicability of diffusion models in inverse imaging, applications to solve real-world problems (e.g. medical imaging).
+**Research Scientist, advisory member** at [EverEx](https://everex.kr/), and a final year **Ph.D. candidate @KAIST** [bio-imaging signal processing & learning lab (BISPL)](https://bispl.weebly.com/). Prior research intern at NVIDIA Research, Google Research, and Los Alamos National Laboratory (LANL). Diffusion models and inverse problems enthusiast. Hyungjin has pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. Interested broadly in the intersection of generative models, representation learning, and their applications to real-world problems. Here is my [CV](https://github.com/HJ-harry/blog-test/blob/master/static/media/CV_Hyungjin_Chung.pdf) and [Research Statement](https://github.com/HJ-harry/blog-test/blob/master/static/media/Research_Statement_Hyungjin_Chung.pdf).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Hyungjin_Chung.pdf" "newtab" >}}CV{{< /staticref >}}.
+I am looking for highly motivated researchers to work with me at [EverEx](https://everex.kr/). If you are interested, send me an email with your CV attached.
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Hyungjin_Chung.pdf" "newtab" >}}CV{{< /staticref >}}. -->
