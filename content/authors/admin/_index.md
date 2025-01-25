@@ -1,5 +1,5 @@
 ---
-title: Hyungjin Chung, Ph.D.
+title: Hyungjin Chung
 role: Research Scientist
 bio: Generative models, Inverse problems, Multimodality, Motion, and more.
 interests:
